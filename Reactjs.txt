@@ -1,0 +1,7 @@
+npmjs.com
+
+
+if you run your react
+
+please type
+     npm start
